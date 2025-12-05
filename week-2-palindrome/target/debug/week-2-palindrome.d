@@ -1,0 +1,1 @@
+D:\projects\rust\tugas-goakal\week-2-palindrome\target\debug\week-2-palindrome.exe: D:\projects\rust\tugas-goakal\week-2-palindrome\src\app.rs D:\projects\rust\tugas-goakal\week-2-palindrome\src\io_handler.rs D:\projects\rust\tugas-goakal\week-2-palindrome\src\main.rs D:\projects\rust\tugas-goakal\week-2-palindrome\src\palindrome.rs
